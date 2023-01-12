@@ -1,0 +1,19 @@
+# ninja log v5
+0	519	6952042199267050	CMakeFiles/myfirstproject.dir/main.cpp.obj	9f39efdab7c41471
+522	694	6952042200957012	myfirstproject.exe	395d7a5fa4dc2a3e
+4	396	6952046324079534	CMakeFiles/myfirstproject.dir/main.cpp.obj	9f39efdab7c41471
+397	496	6952046325039535	myfirstproject.exe	395d7a5fa4dc2a3e
+3	406	6952049602014305	CMakeFiles/myfirstproject.dir/main.cpp.obj	9f39efdab7c41471
+407	516	6952049603084292	myfirstproject.exe	395d7a5fa4dc2a3e
+3	417	6952050294992217	CMakeFiles/myfirstproject.dir/main.cpp.obj	9f39efdab7c41471
+417	523	6952050296022235	myfirstproject.exe	395d7a5fa4dc2a3e
+3	394	6952051739450027	CMakeFiles/myfirstproject.dir/main.cpp.obj	9f39efdab7c41471
+395	498	6952051740450018	myfirstproject.exe	395d7a5fa4dc2a3e
+3	396	6952051991424395	CMakeFiles/myfirstproject.dir/main.cpp.obj	9f39efdab7c41471
+396	496	6952051992384416	myfirstproject.exe	395d7a5fa4dc2a3e
+3	412	6952052210853089	CMakeFiles/myfirstproject.dir/main.cpp.obj	9f39efdab7c41471
+413	525	6952052211973093	myfirstproject.exe	395d7a5fa4dc2a3e
+3	424	6952052441687501	CMakeFiles/myfirstproject.dir/main.cpp.obj	9f39efdab7c41471
+425	531	6952052442727476	myfirstproject.exe	395d7a5fa4dc2a3e
+3	393	6952055806919237	CMakeFiles/myfirstproject.dir/main.cpp.obj	9f39efdab7c41471
+394	502	6952055807959225	myfirstproject.exe	395d7a5fa4dc2a3e
